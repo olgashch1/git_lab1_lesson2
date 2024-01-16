@@ -1,0 +1,22 @@
+Различие веток:
+diff --git a/README b/README
+index 6988c8d..975e13a 100644
+--- a/README
++++ b/README
+@@ -1,3 +1,3 @@
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
++Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+
+
+ You must receive some image as in demo branch
+diff --git a/human.txt b/human.txt
+index e9cafd9..4622f57 100644
+--- a/human.txt
++++ b/human.txt
+@@ -1,12 +1,15 @@
+-     ===
++    =====
++ ===========
++  ==     ==
+:
